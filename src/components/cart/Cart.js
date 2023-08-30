@@ -41,6 +41,7 @@ const Cart = ({ setCartNum }) => {
               <td>Product</td>
               <td>Price</td>
               <td>Quantity</td>
+              <td></td>
             </tr>
           </thead>
           <tbody>
