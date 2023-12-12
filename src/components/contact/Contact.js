@@ -24,7 +24,7 @@ const Contact = () => {
               <a href="#">furniture@gmail.com</a>
             </li>
             <li>
-              <a href="#">Mansoura Egypt</a>
+              <a href="#">Alexandria, Egypt</a>
             </li>
           </div>
         </div>
